@@ -1,0 +1,18 @@
+.app {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.container {
+  padding: 10px;
+  max-width: 500px;
+  border: 2px solid lightcoral;
+  background-color: wheat;
+}
+
+.container span {
+  font-weight: 700;
+}
